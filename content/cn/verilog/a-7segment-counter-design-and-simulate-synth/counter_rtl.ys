@@ -1,0 +1,8 @@
+# read design
+read_verilog counter.v
+hierarchy -top counter
+# high-level synthesis
+proc; opt; fsm; opt; memory; opt; #techmap; opt;
+write_verilog counter_synth.v
+# dot
+prep; show -stretch -prefix counter -format dot counter_synth.v

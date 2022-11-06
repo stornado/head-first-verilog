@@ -1,0 +1,8 @@
+# read design
+read_verilog segment_decoder.v
+hierarchy -top segment_decoder
+# high-level synthesis
+proc; opt; fsm; opt; memory; opt; #techmap; opt;
+write_verilog segment_decoder_synth.v
+# dot
+prep; show -stretch -prefix segment_decoder -format dot segment_decoder_synth.v

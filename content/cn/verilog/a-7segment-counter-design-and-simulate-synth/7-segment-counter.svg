@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="103 224 633 320" preserveAspectRatio="xMinYMin meet" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<g class="BCD to 7-Segment Decoder">
+<rect x="400" y="272" width="64" height="224" fill="#FFFFFF" stroke="none" />
+<line x1="384" y1="288" x2="400" y2="288" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="404" y="293" font-family="sans-serif">D</text>
+<line x1="384" y1="320" x2="400" y2="320" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="404" y="325" font-family="sans-serif">C</text>
+<line x1="384" y1="352" x2="400" y2="352" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="404" y="357" font-family="sans-serif">B</text>
+<line x1="384" y1="384" x2="400" y2="384" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="404" y="389" font-family="sans-serif">A</text>
+<line x1="480" y1="288" x2="464" y2="288" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="450" y="293" font-family="sans-serif">a</text>
+<line x1="480" y1="320" x2="464" y2="320" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="450" y="325" font-family="sans-serif">b</text>
+<line x1="480" y1="352" x2="464" y2="352" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="450" y="357" font-family="sans-serif">c</text>
+<line x1="480" y1="384" x2="464" y2="384" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="450" y="389" font-family="sans-serif">d</text>
+<line x1="480" y1="416" x2="464" y2="416" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="450" y="421" font-family="sans-serif">e</text>
+<line x1="480" y1="448" x2="464" y2="448" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="450" y="453" font-family="sans-serif">f</text>
+<line x1="480" y1="480" x2="464" y2="480" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="450" y="485" font-family="sans-serif">g</text>
+<rect x="400" y="272" width="64" height="224" stroke="#000000" stroke-width="3" fill="none" />
+<text x="357" y="529" font-family="sans-serif">7SegmentDecoder</text>
+</g>
+<g class="7-Segment Display">
+<rect x="560" y="272" width="128" height="128" fill="#FFFFFF" stroke="none" />
+<line x1="544" y1="288" x2="560" y2="288" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="564" y="293" font-family="sans-serif">a</text>
+<line x1="544" y1="320" x2="560" y2="320" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="564" y="325" font-family="sans-serif">b</text>
+<line x1="544" y1="352" x2="560" y2="352" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="564" y="357" font-family="sans-serif">c</text>
+<line x1="544" y1="384" x2="560" y2="384" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="564" y="389" font-family="sans-serif">d</text>
+<line x1="608" y1="416" x2="608" y2="400" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="603" y="389" font-family="sans-serif">e</text>
+<line x1="640" y1="416" x2="640" y2="400" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="635" y="389" font-family="sans-serif">f</text>
+<line x1="672" y1="416" x2="672" y2="400" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="667" y="389" font-family="sans-serif">g</text>
+<rect x="560" y="272" width="128" height="128" stroke="#000000" stroke-width="3" fill="none" />
+<line x1="615" y1="296" x2="641" y2="296" stroke="#00D400" stroke-width="7" stroke-linecap="round" fill="none" />
+<line x1="648" y1="296" x2="648" y2="325" stroke="#00D400" stroke-width="7" stroke-linecap="round" fill="none" />
+<line x1="648" y1="331" x2="648" y2="360" stroke="#00D400" stroke-width="7" stroke-linecap="round" fill="none" />
+<line x1="615" y1="360" x2="641" y2="360" stroke="#C8D4C8" stroke-width="7" stroke-linecap="round" fill="none" />
+<line x1="608" y1="331" x2="608" y2="360" stroke="#C8D4C8" stroke-width="7" stroke-linecap="round" fill="none" />
+<line x1="608" y1="296" x2="608" y2="325" stroke="#C8D4C8" stroke-width="7" stroke-linecap="round" fill="none" />
+<line x1="615" y1="328" x2="641" y2="328" stroke="#C8D4C8" stroke-width="7" stroke-linecap="round" fill="none" />
+</g>
+<g class="Wire">
+<line x1="480" y1="352" x2="544" y2="352" stroke="#000000" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g class="Wire">
+<line x1="480" y1="384" x2="544" y2="384" stroke="#000000" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g class="Wire">
+<line x1="480" y1="288" x2="544" y2="288" stroke="#000000" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g class="Wire">
+<line x1="480" y1="320" x2="544" y2="320" stroke="#000000" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g class="Wire">
+<line x1="608" y1="416" x2="480" y2="416" stroke="#000000" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g class="Wire">
+<line x1="640" y1="416" x2="640" y2="448" stroke="#000000" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g class="Wire">
+<line x1="640" y1="448" x2="480" y2="448" stroke="#000000" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g class="Wire">
+<line x1="672" y1="416" x2="672" y2="480" stroke="#000000" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g class="Wire">
+<line x1="672" y1="480" x2="480" y2="480" stroke="#000000" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g class="Counter">
+<rect x="272" y="272" width="64" height="128" fill="#FFFFFF" stroke="none" />
+<line x1="256" y1="288" x2="272" y2="288" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="276" y="293" font-family="sans-serif"></text>
+<polyline stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" fill="none" points="272,280 288,288 272,296 " />
+<line x1="256" y1="384" x2="272" y2="384" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<ellipse cx="268" cy="384" rx="1" ry="1" stroke="#000000" stroke-width="3" fill="none" />
+<ellipse cx="268" cy="384" rx="3" ry="3" stroke="#000000" stroke-width="3" fill="none" />
+<text x="276" y="389" font-family="sans-serif">R</text>
+<line x1="352" y1="288" x2="336" y2="288" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="312" y="293" font-family="sans-serif">Q3</text>
+<line x1="352" y1="320" x2="336" y2="320" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="312" y="325" font-family="sans-serif">Q2</text>
+<line x1="352" y1="352" x2="336" y2="352" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="312" y="357" font-family="sans-serif">Q1</text>
+<line x1="352" y1="384" x2="336" y2="384" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="312" y="389" font-family="sans-serif">Q0</text>
+<rect x="272" y="272" width="64" height="128" stroke="#000000" stroke-width="3" fill="none" />
+<text x="269" y="433" font-family="sans-serif">Counter</text>
+</g>
+<g class="Wire">
+<line x1="384" y1="352" x2="352" y2="352" stroke="#000000" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g class="Wire">
+<line x1="384" y1="384" x2="352" y2="384" stroke="#000000" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g class="Wire">
+<line x1="384" y1="288" x2="352" y2="288" stroke="#000000" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g class="Wire">
+<line x1="384" y1="320" x2="352" y2="320" stroke="#000000" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g class="DC Rail">
+<line x1="214" y1="337" x2="234" y2="337" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="224" y1="384" x2="224" y2="337" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="209" y="333" font-family="sans-serif">+5V</text>
+</g>
+<g class="Pulse Source">
+<line x1="160" y1="384" x2="160" y2="369" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="160" y1="335" x2="160" y2="320" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<ellipse cx="160" cy="352" rx="17" ry="17" fill="#FFFFFF" stroke="none" />
+<ellipse cx="160" cy="352" rx="17" ry="17" stroke="#000000" stroke-width="3" fill="none" />
+<polyline stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" fill="none" points="152,356 152,348 156,348 156,356 168,356 " />
+</g>
+<g class="Ground">
+<line x1="160" y1="416" x2="160" y2="480" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="170" y1="480" x2="150" y2="480" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="166" y1="485" x2="154" y2="485" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+<line x1="162" y1="490" x2="158" y2="490" stroke="#000000" stroke-width="3" stroke-linecap="round" fill="none" />
+</g>
+<g class="Wire">
+<line x1="160" y1="384" x2="160" y2="416" stroke="#000000" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g class="Wire">
+<line x1="256" y1="288" x2="160" y2="288" stroke="#000000" stroke-width="1.5" stroke-linecap="round" fill="none" />
+<text x="193" y="273" font-family="sans-serif">Clk</text>
+</g>
+<g class="Wire">
+<line x1="160" y1="288" x2="160" y2="320" stroke="#000000" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g class="Wire">
+<line x1="256" y1="384" x2="224" y2="384" stroke="#000000" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+</svg>

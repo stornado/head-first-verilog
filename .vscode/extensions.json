@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "EditorConfig.EditorConfig",
+        "oderwat.indent-rainbow",
+        "ryu1kn.partial-diff",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vscode-remote.remote-ssh-edit",
+        "eirikpre.systemverilog",
+        "jkjustjoshing.vscode-text-pastry",
+        "leafvmaple.verilog",
+        "mshr-h.veriloghdl",
+        "wavetrace.wavetrace"
+    ]
+}
