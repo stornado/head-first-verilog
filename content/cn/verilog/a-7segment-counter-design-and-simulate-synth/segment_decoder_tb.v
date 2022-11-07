@@ -22,8 +22,10 @@ initial begin
 end
 
 initial begin
-        num = 4'd0; rst = 1;
-    #10 num = 4'd0; rst = 0;
+        num = 4'd0;
+        rst = 1;
+    #10 num = 4'd0;
+    #10 rst = 0;
 end
 
 always #5 num <= num + 1;

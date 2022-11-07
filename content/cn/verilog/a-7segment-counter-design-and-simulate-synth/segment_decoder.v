@@ -8,12 +8,11 @@ module segment_decoder(
     a_g
 );
 
-input [3:0] num;
-input rst;
-output [6:0] a_g; // a_g[6:0]->a,b,c,d,e,f,g
+input wire [3:0] num;
+input wire rst;
+output wire [6:0] a_g; // a_g[6:0]->a,b,c,d,e,f,g
 
 reg [6:0] temp;
-wire [6:0] a_g;
 
 assign a_g = temp;
 
